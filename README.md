@@ -10,21 +10,21 @@
 # Work Experience
 
 # 💼 Application Development Associate at Accenture (Nov 2022 - Sep 23)
-• Spearheaded the development and execution of Change Improvement Requests (CIPs) for the MARS Development
+- Spearheaded the development and execution of Change Improvement Requests (CIPs) for the MARS Development
 Factory project, utilizing Python and SQL to improve performance and functionality across Nexus Development, Sand,
 and QA platforms.
-• Managed weekly promotion activities for developed CIPs, ensuring seamless migration of CIPs of team members from
+- Managed weekly promotion activities for developed CIPs, ensuring seamless migration of CIPs of team members from
 Nexus Development to the QA platform every Monday.
-• Collaborated with cross-functional teams to gather and analyze business requirements, ensuring 100% accuracy and alignment with project objectives.
-• Delivered projects with a 95% on-time completion rate by accurately estimating timelines, resource needs, and managing
+- Collaborated with cross-functional teams to gather and analyze business requirements, ensuring 100% accuracy and alignment with project objectives.
+- Delivered projects with a 95% on-time completion rate by accurately estimating timelines, resource needs, and managing
 tasks effectively.
-• Developed innovative solutions by continuously upgrading technical skills and staying informed about emerging technologies
+- Developed innovative solutions by continuously upgrading technical skills and staying informed about emerging technologies
 and trends.
-• Conducted peer and senior developer code reviews, achieving a 98%approval rate for quality and adherence to coding
+- Conducted peer and senior developer code reviews, achieving a 98%approval rate for quality and adherence to coding
 standards.
-• Ensured 99% compliance with software development life cycle (SDLC) best practices, enhancing consistency and quality
+- Ensured 99% compliance with software development life cycle (SDLC) best practices, enhancing consistency and quality
 across projects.
-• Contributed to knowledge management by maintaining a 100% accuracy rate in updating internal documentation and
+- Contributed to knowledge management by maintaining a 100% accuracy rate in updating internal documentation and
 resources.
 
 # 📊 Certifications
